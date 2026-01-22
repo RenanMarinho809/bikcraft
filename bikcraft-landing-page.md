@@ -277,4 +277,4 @@ Este projeto serve como excelente referência para quem deseja aprender desenvol
 
 ---
 
-> 🏆 _Bikecraft - Bicicletras Feitas a Mão com Amor e Arte_
+> 🏆 _Bikcraft - Bicicletras Feitas a Mão com Amor e Arte_
